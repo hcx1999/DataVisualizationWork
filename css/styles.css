@@ -61,7 +61,7 @@ body {
 .fullscreen-image {
   height: 100%;
   width: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 /* 下一张 & 上一张 按钮 */
 .prev,
