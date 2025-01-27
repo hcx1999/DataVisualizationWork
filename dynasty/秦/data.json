@@ -1,0 +1,8 @@
+{
+    "title": "宋代",
+    "description": "大屏数据可视化案例",
+    "companies": [
+        {"name": "公司A", "value": 100},
+        {"name": "公司B", "value": 200}
+    ]
+}
